@@ -2,10 +2,8 @@
   "name": "multi88",
   "theme": "syntax",
   "version": "0.30.0",
-  "description": "แทงบอลออลไลน์",
-  "keywords": [
-    "multi88"
-  ],
+  "private": true,
+  "description": "A monokai theme",
   "repository": "https://github.com/Pluemrujipas/multi8899.git",
   "license": "MIT",
   "engines": {
